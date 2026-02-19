@@ -1,10 +1,15 @@
 # git_test
 
+import random 
+ww = (20,1)
+moh = 0
+mm = input("is : ")
+while moh :
+    moh += 1
 
-studant = input("what is your : ")
-xstudant = studant * 3
-print(xstudant)
-if xstudant <= 50 :
-    print(f"sacssfull : {xstudant}")
+if mm < ww :
+    print(f"soo hait{mm}")
+elif mm > ww :
+    print(f"soo low{mm}")
 else :
-    print(f"your fell : {xstudant}")
+    print(f"ok{mm}")
