@@ -1,11 +1,9 @@
-
-
 <DOCTTYPE html>
 <html>
     <head>
         <title>mohammed morsy333</title>
         <style>
-            .dd.first-child.p  {
+            .dd p :first-child  {
                 color: rgb(255, 0, 0);
             }
         </style>
