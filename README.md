@@ -1,17 +1,17 @@
-# git_test
 
 <DOCTTYPE html>
 <html>
     <head>
         <title>mohammed morsy333</title>
-
+      
     </head>
     <body>
         <div class ="dd">frfdfev</div>
-        .dd {
-            color : red;
-        }
+        
+          <style>
+            .dd {
+                color: blue;
+            }
+        </style>
+        
     </body>
-
-
-</html>
